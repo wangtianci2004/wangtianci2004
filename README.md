@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hello, I'm Tianci Wang (王天赐)
 
-<!--
-**wangtianci2004/wangtianci2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Master's student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC).
 
-Here are some ideas to get you started:
+🔬 My research focuses on Large Language Models (LLMs), Agentic AI, and Embodied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I am passionate about LLM Reasoning and LLM-powered autonomous agents.
+
+🌐 View my homepage [here](https://wangtianci2004.github.io/) for more details.
+
+📫 How to reach me: <u>wangtianci2004@gmail.com</u>
+
+<details><summary>📊 Weekly Development Breakdown</summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/54af4cb9-c7c9-4b40-a587-a7cd4efedd23.svg)](https://wakatime.com/@54af4cb9-c7c9-4b40-a587-a7cd4efedd23)
