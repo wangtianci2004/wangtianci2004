@@ -15,15 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2025 - To: 04 October 2025
+From: 28 September 2025 - To: 05 October 2025
 
-Total Time: 1 hr 53 mins
+Total Time: 1 hr 31 mins
 
-Other        1 hr 30 mins    ████████████████████░░░░░   80.08 %
-Markdown     17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Other      1 hr 23 mins    ██████████████████████▓░░   90.85 %
+Markdown   8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
