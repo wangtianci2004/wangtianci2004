@@ -4,7 +4,7 @@
 
 🔬 My research focuses on Large Language Models (LLMs), Agentic AI, and Embodied AI.
 
-🚀 I am passionate about LLM Reasoning and LLM-powered autonomous agents.
+🚀 I am passionate about developing LLM-powered autonomous agents for embodied AI, with a focus on agentic RL, hierarchical planning, and long-horizon reasoning.
 
 🌐 View my homepage [here](https://wangtianci2004.github.io/) for more details.
 
