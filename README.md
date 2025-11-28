@@ -15,11 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2025 - To: 26 November 2025
+From: 20 November 2025 - To: 27 November 2025
 
-Total Time: 3 mins
+Total Time: 51 mins
 
-Python   3 mins          █████████████████████████   100.00 %
+Nushell   24 mins         ███████████▓░░░░░░░░░░░░░   46.75 %
+C++       22 mins         ███████████░░░░░░░░░░░░░░   44.04 %
+Python    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+TOML      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
