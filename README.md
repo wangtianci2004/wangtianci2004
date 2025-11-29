@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2025 - To: 27 November 2025
+From: 21 November 2025 - To: 28 November 2025
 
-Total Time: 51 mins
+Total Time: 2 hrs 18 mins
 
-Nushell   24 mins         ███████████▓░░░░░░░░░░░░░   46.75 %
-C++       22 mins         ███████████░░░░░░░░░░░░░░   44.04 %
-Python    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-TOML      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Markdown   44 mins         ████████░░░░░░░░░░░░░░░░░   32.38 %
+Nushell    26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+Other      26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.84 %
+C++        22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+TOML       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
 ```
 
 <!--END_SECTION:waka-->
