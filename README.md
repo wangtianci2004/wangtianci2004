@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Total Time: 57 mins
+Total Time: 48 mins
 
-Other      54 mins         ███████████████████████▓░   94.24 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Other      45 mins         ███████████████████████▒░   93.17 %
+Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
