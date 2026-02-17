@@ -15,11 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2026 - To: 15 February 2026
+From: 09 February 2026 - To: 16 February 2026
 
-Total Time: 6 hrs 54 mins
+Total Time: 11 hrs 58 mins
 
-Other   6 hrs 54 mins   █████████████████████████   100.00 %
+Other      11 hrs 47 mins  ████████████████████████▓   98.49 %
+Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Python     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TeX        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
