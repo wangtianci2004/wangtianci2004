@@ -15,13 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2026 - To: 27 February 2026
+From: 21 February 2026 - To: 28 February 2026
 
-Total Time: 2 hrs 19 mins
+Total Time: 2 hrs 10 mins
 
-Other   1 hr 52 mins          ████████████████████░░░░░   80.30 %
-TeX     24 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
-YAML    2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Other   1 hr 46 mins          ████████████████████▒░░░░   81.14 %
+TeX     24 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
 ```
 
 <!--END_SECTION:waka-->
