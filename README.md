@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2026 - To: 24 March 2026
+From: 18 March 2026 - To: 25 March 2026
 
-Total Time: 14 hrs 58 mins
+Total Time: 14 hrs 46 mins
 
-Other      14 hrs 53 mins        █████████████████████████   99.38 %
-Text       5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other      14 hrs 38 mins        ████████████████████████▓   99.14 %
+Text       5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Markdown   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
