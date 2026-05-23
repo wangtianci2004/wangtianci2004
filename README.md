@@ -15,14 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2026 - To: 21 May 2026
+From: 15 May 2026 - To: 22 May 2026
 
-Total Time: 7 hrs 16 mins
+Total Time: 5 hrs 8 mins
 
-Other        7 hrs 14 mins         █████████████████████████   99.66 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other        5 hrs 8 mins          █████████████████████████   99.69 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
