@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2026 - To: 27 May 2026
+From: 21 May 2026 - To: 28 May 2026
 
-Total Time: 34 mins
+Total Time: 19 mins
 
-TeX     18 mins               █████████████▒░░░░░░░░░░░   53.95 %
-Other   15 mins               ███████████▒░░░░░░░░░░░░░   45.71 %
-TOML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TeX     18 mins               ████████████████████████▒   96.89 %
+Other   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+TOML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
