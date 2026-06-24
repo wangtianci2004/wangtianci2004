@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2026 - To: 22 June 2026
+From: 16 June 2026 - To: 23 June 2026
 
-Total Time: 21 hrs 4 mins
+Total Time: 11 hrs 39 mins
 
-Other        8 hrs 44 mins         ██████████▒░░░░░░░░░░░░░░   41.49 %
-JavaScript   8 hrs 2 mins          █████████▓░░░░░░░░░░░░░░░   38.20 %
-Markdown     2 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-TeX          1 hr 35 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Python       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Other        7 hrs 7 mins          ███████████████▒░░░░░░░░░   61.12 %
+JavaScript   2 hrs 54 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
+Markdown     1 hr 9 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+Python       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+TOML         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
