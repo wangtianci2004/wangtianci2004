@@ -2,9 +2,9 @@
 
 🎓 I am a Master's student at the School of Artificial Intelligence and Data Science, University of Science and Technology of China (USTC).
 
-🔬 My research focuses on Large Language Models (LLMs), Agentic AI, and Embodied AI.
+🔬 My research focuses on Large Language Models (LLMs), Embodied AI and Agentic AI, with a particular focus on agent-driven physical simulation.
 
-🚀 I am passionate about developing LLM-powered autonomous agents for embodied AI, with a focus on agentic RL, hierarchical planning, and long-horizon reasoning.
+🚀 I am passionate about building LLM-powered autonomous agents that plan, generate, and iteratively self-correct physics simulations, producing verifiable, ground-truth trajectory data to train and evaluate embodied AI systems.
 
 🌐 View my homepage [here](https://wangtianci2004.github.io/) for more details.
 
