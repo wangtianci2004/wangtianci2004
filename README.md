@@ -8,7 +8,7 @@
 
 🌐 View my homepage [here](https://wangtianci2004.github.io/) for more details.
 
-📫 How to reach me: <u>wangtianci2004@gmail.com</u>
+📫 How to reach me: <u>wangtianci2004@gmail.com</u> or <u>wangtianci2004@mail.ustc.edu.cn</u>.
 
 <details><summary>📊 Weekly Development Breakdown</summary>
 
